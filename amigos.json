@@ -1,0 +1,19 @@
+{
+    "Amigos": [
+        {
+            "nombre": "Javi",
+            "edad": "20",
+            "coche": "azul refachero" 
+        },
+        {
+            "nombre": "Julio",
+            "edad": "20",
+            "coche": "none" 
+        },
+        {
+            "nombre": "Fer",
+            "edad": "21",
+            "coche": "mercedes grandote" 
+        }
+    ]
+}
